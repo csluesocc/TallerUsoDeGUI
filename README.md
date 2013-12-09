@@ -1,5 +1,5 @@
-Comunidad de Software Libre UESOcc
-==============
+[Comunidad de Software Libre UESOcc](https://www.facebook.com/groups/csluesfmocc)
+=================================================================================
 
 #TallerUsoDeGUI
 
