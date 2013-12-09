@@ -1,7 +1,7 @@
 [Comunidad de Software Libre UESOcc](https://www.facebook.com/groups/csluesfmocc)
 =================================================================================
 
-#TallerUsoDeGUI
+#Taller java Uso de GUI 
 
 
 Código fuente del taller Programación en java (Uso de GUI)
